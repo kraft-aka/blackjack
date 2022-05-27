@@ -1,0 +1,29 @@
+body {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  /* background-image: url("https://images.all-free-download.com/images/graphicthumb/wood_background_hd_picture_4_169843.jpg");
+  background-size: cover; */
+  background-color: #06113C;
+  color: white;
+}
+
+
+h1 {
+  color: goldenrod;
+
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  background-color: goldenrod;
+  width: 150px;
+  padding: 5px 0;
+  border: none;
+  font-weight: bold;
+  color: darkgreen;
+  margin: 5px 0;
+  border-radius: 3px;
+}
